@@ -5,11 +5,11 @@ This project is a Pathfinder Visualization Tool that demonstrates Dijkstra's Alg
 
 Features
 
-✅ Interactive grid layout
-✅ Select start and end points
-✅ Visual representation of Dijkstra's Algorithm
-✅ Dynamic pathfinding updates
-✅ Responsive and easy-to-use UI
+1. Interactive grid layout
+2. Select start and end points
+3. Visual representation of Dijkstra's Algorithm
+4. Dynamic pathfinding updates
+5. Responsive and easy-to-use UI
 
 Usage
 
